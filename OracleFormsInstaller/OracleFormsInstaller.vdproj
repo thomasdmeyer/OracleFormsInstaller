@@ -15,19 +15,19 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_312576182E864D3EAFCC8ACEF6B52677"
+        "MsmKey" = "8:_17E316D92C004CF69C295082860B43E7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_72AB40408CC945B3B6DB14538A09415C"
+        "MsmKey" = "8:_65198EA21AA249EC938DFC6DCF3D0BC7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7CCFD53E73F94EEC896418C1EB445BE2"
+        "MsmKey" = "8:_8E746D146224425FBA58ECE421DDEEF2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -118,29 +118,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_312576182E864D3EAFCC8ACEF6B52677"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_17E316D92C004CF69C295082860B43E7"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\OracleFormsClient\\OracleFormsClient.bat"
-            "TargetName" = "8:OracleFormsClient.bat"
-            "Tag" = "8:"
-            "Folder" = "8:_48901D87710C4E039326492279FE3620"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_72AB40408CC945B3B6DB14538A09415C"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\frmsal.jar"
+            "SourcePath" = "8:..\\frmsal.jar"
             "TargetName" = "8:frmsal.jar"
             "Tag" = "8:"
             "Folder" = "8:_48901D87710C4E039326492279FE3620"
@@ -158,10 +138,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7CCFD53E73F94EEC896418C1EB445BE2"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_65198EA21AA249EC938DFC6DCF3D0BC7"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\OracleFormsClient\\oracle.ico"
+            "SourcePath" = "8:..\\oracle.ico"
             "TargetName" = "8:oracle.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_48901D87710C4E039326492279FE3620"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E746D146224425FBA58ECE421DDEEF2"
+            {
+            "SourcePath" = "8:..\\OracleFormsClient.bat"
+            "TargetName" = "8:OracleFormsClient.bat"
             "Tag" = "8:"
             "Folder" = "8:_48901D87710C4E039326492279FE3620"
             "Condition" = "8:"
@@ -267,7 +267,7 @@
         "Keywords" = "8:mmcs udoh oracle forms client"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_7CCFD53E73F94EEC896418C1EB445BE2"
+        "ARPPRODUCTICON" = "8:"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -370,7 +370,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_4AD24F7CCE4A409E8A1FBE8AC0DCD5A9"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_48206794E106411C92D47B391D0150E6"
             {
             "Name" = "8:OracleFormsClient"
             "Arguments" = "8:"
@@ -378,10 +378,10 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_312576182E864D3EAFCC8ACEF6B52677"
+            "Target" = "8:_8E746D146224425FBA58ECE421DDEEF2"
             "Folder" = "8:_B5E245E8656B4BB99DF8EB11E7D2E6C8"
             "WorkingFolder" = "8:_48901D87710C4E039326492279FE3620"
-            "Icon" = "8:_7CCFD53E73F94EEC896418C1EB445BE2"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
         }
